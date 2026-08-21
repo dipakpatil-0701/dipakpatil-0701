@@ -193,14 +193,6 @@ A strategic chess game project that explores AI-based decision-making and optimi
 </p>
 
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipakpatil-0701\&theme=tokyo-night\&hide_border=true)](https://github.com/dipakpatil-0701)
-
-</div>
-
 ---
 
 ## 🤝 Connect With Me
