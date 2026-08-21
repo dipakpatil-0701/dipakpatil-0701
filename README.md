@@ -21,7 +21,7 @@ alt="Animated Coding GIF"
 
 ### 🚀 Building Real-World Projects & Exploring AI
 
-📚 **3rd Year • 6th Semester**
+📚 **3rd Year **
 
 </div>
 
