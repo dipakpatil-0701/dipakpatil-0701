@@ -270,4 +270,36 @@ Learn → Build → Test → Improve → Deploy → Repeat 🔁
 ⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<p>
+  <strong>Watch my contributions come alive! 🐍</strong>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake.svg"
+  />
+</picture>
+
+<br><br>
+
+### 🟢 Every contribution tells a story.
+
+</div>
 
