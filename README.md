@@ -167,6 +167,71 @@ A strategic chess game project that explores AI-based decision-making and optimi
 </p>
 
 ---
+## 🔥 Contribution Activity
+
+<div align="center">
+
+### 🚀 Building • Learning • Contributing
+
+<p>
+Every project is a step forward.
+Every commit is a step closer to mastery.
+</p>
+
+---
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻
+
+**Projects**
+
+Building practical
+AI & software solutions
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+**Learning**
+
+Exploring AI, ML,
+Data Science & CV
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀
+
+**Growth**
+
+Improving through
+continuous coding
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 My Development Journey
+
+```text
+Learn → Build → Test → Improve → Deploy → Repeat 🔁
+```
+
+<a href="https://github.com/dipakpatil-0701">
+  <strong>💻 Explore My GitHub Projects →</strong>
+</a>
+
+</div>
+
+---
 
 ## 📈 GitHub Activity
 
@@ -180,33 +245,6 @@ A strategic chess game project that explores AI-based decision-making and optimi
 </p>
 
 ---
-
-## 🔥 Contribution Activity
-
-<p align="center">
-
-  <a href="https://github.com/dipakpatil-0701">
-    <img
-      src="https://img.shields.io/github/last-commit/dipakpatil-0701?style=for-the-badge&logo=github&label=Last%20Commit"
-      alt="Last Commit"
-    />
-  </a>
-
-  <a href="https://github.com/dipakpatil-0701?tab=repositories">
-    <img
-      src="https://img.shields.io/github/commit-activity/y/dipakpatil-0701?style=for-the-badge&logo=github&label=Yearly%20Commits"
-      alt="Yearly Commits"
-    />
-  </a>
-
-  <a href="https://github.com/dipakpatil-0701?tab=overview">
-    <img
-      src="https://img.shields.io/github/created-at/dipakpatil-0701?style=for-the-badge&logo=github&label=GitHub%20Since"
-      alt="GitHub Since"
-    />
-  </a>
-
-</p>
 
 
 
