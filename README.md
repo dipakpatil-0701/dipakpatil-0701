@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img aling="right"alt="codingwidth="400"src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJveIGlGq8d5DnxBKjw_RVOh6qkZfhry62gcA_gZ0RQ&s=10">
+<img aling="right" alt="coding" width="400"src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJveIGlGq8d5DnxBKjw_RVOh6qkZfhry62gcA_gZ0RQ&s=10">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakpatil-0701&label=Profile%20views&color=0e75b6&style=flat" alt="dipakpatil-0701" /> </p>
 
