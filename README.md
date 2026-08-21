@@ -272,34 +272,70 @@ Learn → Build → Test → Improve → Deploy → Repeat 🔁
 </div>
 ---
 
-## 🐍 GitHub Contribution Snake
+---
+
+# 🐍 GitHub Contribution Journey
 
 <div align="center">
 
+### 🚀 Turning Code Into Contributions
+
 <p>
-  <strong>Watch my contributions come alive! 🐍</strong>
+  <em>Every commit represents learning, building, and improving.</em>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake-dark.svg"
-  />
+<br>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake.svg"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake-dark.svg"
+  width="850"
+  alt="GitHub Contribution Snake"
+/>
 
 <br><br>
 
-### 🟢 Every contribution tells a story.
+<table>
+<tr>
 
-</div>
+<td align="center" width="33%">
 
+### 💻
+<strong>CODE</strong>
+
+Write  
+Build  
+Experiment
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐍
+<strong>CONTRIBUTE</strong>
+
+Commit  
+Improve  
+Contribute
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀
+<strong>GROW</strong>
+
+Learn  
+Create  
+Innovate
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🟢 My Coding Journey
+
+```text
+IDEA → CODE → TEST → COMMIT → IMPROVE → REPEAT 🔁
