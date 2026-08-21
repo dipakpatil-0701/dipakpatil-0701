@@ -148,27 +148,50 @@ A strategic chess game project that explores AI-based decision-making and optimi
 - 📊 Machine Learning and Computer Vision Practice
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakpatil-0701\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)](https://github.com/dipakpatil-0701)
+  <a href="https://github.com/dipakpatil-0701">
+    <img src="https://img.shields.io/github/followers/dipakpatil-0701?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+  </a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakpatil-0701\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)](https://github.com/dipakpatil-0701)
+  <a href="https://github.com/dipakpatil-0701?tab=repositories">
+    <img src="https://img.shields.io/github/stars/dipakpatil-0701?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars">
+  </a>
 
-</div>
+  <a href="https://github.com/dipakpatil-0701?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-5-blue?style=for-the-badge&logo=github" alt="Public Repositories">
+  </a>
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img
+ src="https://github-readme-activity-graph.vercel.app/graph?username=dipakpatil-0701&theme=tokyo-night&hide_border=true"
+ alt="Dipak Patil GitHub Activity Graph"
+/>
+
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Activity
 
-<div align="center">
+<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dipakpatil-0701\&theme=tokyonight\&hide_border=true)](https://github.com/dipakpatil-0701)
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipakpatil-0701&theme=tokyonight"
+ alt="GitHub Profile Summary"
+/>
 
-</div>
+</p>
 
----
 
 ## 📈 GitHub Activity
 
