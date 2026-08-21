@@ -185,12 +185,29 @@ A strategic chess game project that explores AI-based decision-making and optimi
 
 <p align="center">
 
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipakpatil-0701&theme=tokyonight"
- alt="GitHub Profile Summary"
-/>
+  <a href="https://github.com/dipakpatil-0701">
+    <img
+      src="https://img.shields.io/github/last-commit/dipakpatil-0701?style=for-the-badge&logo=github&label=Last%20Commit"
+      alt="Last Commit"
+    />
+  </a>
+
+  <a href="https://github.com/dipakpatil-0701?tab=repositories">
+    <img
+      src="https://img.shields.io/github/commit-activity/y/dipakpatil-0701?style=for-the-badge&logo=github&label=Yearly%20Commits"
+      alt="Yearly Commits"
+    />
+  </a>
+
+  <a href="https://github.com/dipakpatil-0701?tab=overview">
+    <img
+      src="https://img.shields.io/github/created-at/dipakpatil-0701?style=for-the-badge&logo=github&label=GitHub%20Since"
+      alt="GitHub Since"
+    />
+  </a>
 
 </p>
+
 
 
 ---
