@@ -275,8 +275,6 @@ Learn → Build → Test → Improve → Deploy → Repeat 🔁
 
 ---
 
----
-
 # 🐍 GitHub Contribution Journey
 
 <div align="center">
@@ -284,18 +282,22 @@ Learn → Build → Test → Improve → Deploy → Repeat 🔁
 ## 🚀 Turning Code Into Contributions
 
 <p>
-  <em>Watch the snake travel through my coding journey.</em>
+  <em>Watch my contributions come alive as I code, learn and grow.</em>
 </p>
 
 <br>
 
+<p align="center">
+
 <img
-  src="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake.gif"
+  src="https://raw.githubusercontent.com/dipakpatil-0701/dipakpatil-0701/output/github-snake.svg"
   width="900"
   alt="Animated GitHub Contribution Snake"
 />
 
-<br><br>
+</p>
+
+<br>
 
 <table>
 <tr>
@@ -306,8 +308,8 @@ Learn → Build → Test → Improve → Deploy → Repeat 🔁
 
 <strong>BUILD</strong>
 
-Create projects  
-Solve problems
+Create Projects  
+Solve Problems
 
 </td>
 
@@ -317,8 +319,8 @@ Solve problems
 
 <strong>CONTRIBUTE</strong>
 
-Commit code  
-Keep moving
+Write Code  
+Commit Often
 
 </td>
 
@@ -328,8 +330,8 @@ Keep moving
 
 <strong>GROW</strong>
 
-Learn more  
-Build better
+Learn More  
+Build Better
 
 </td>
 
