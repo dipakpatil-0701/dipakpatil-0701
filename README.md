@@ -105,26 +105,6 @@ A strategic chess game project that explores AI-based decision-making and optimi
 `JavaScript` `Artificial Intelligence` `Genetic Algorithm` `Ant Colony Optimization`
 
 ---
-
-### 🏋️ AI Personalized Fitness Recommendation System
-
-**An Intelligent ML-Based Personalized Fitness Recommendation and Workout Planning System**
-
-A machine learning-based system designed to provide personalized fitness and workout recommendations based on user information and preferences.
-
-**Key Features:**
-- 👤 User-based recommendations
-- 🏃 Personalized workout planning
-- 📊 Data-based analysis
-- 🤖 Machine Learning recommendations
-- 📈 Personalized fitness suggestions
-
-**Technologies:**
-
-`Python` `Machine Learning` `Data Processing` `Recommendation System`
-
----
-
 ## 📚 Currently Learning
 
 <p align="center">
@@ -168,72 +148,47 @@ A machine learning-based system designed to provide personalized fitness and wor
 - 📊 Machine Learning and Computer Vision Practice
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub Statistics"
-  />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakpatil-0701\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)](https://github.com/dipakpatil-0701)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakpatil-0701\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)](https://github.com/dipakpatil-0701)
 
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dipakpatil-0701\&theme=tokyonight\&hide_border=true)](https://github.com/dipakpatil-0701)
 
-</p>
+</div>
 
 ---
 
 ## 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipakpatil-0701\&theme=tokyo-night\&hide_border=true)](https://github.com/dipakpatil-0701)
 
-</p>
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dipakpatil-0701)
 
-  <a href="https://www.linkedin.com/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
 
-</p>
+</div>
 
 ---
 
@@ -244,3 +199,4 @@ A machine learning-based system designed to provide personalized fitness and wor
 ⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
+
