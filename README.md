@@ -6,15 +6,15 @@
 
 <p>
   <strong>💻 Python</strong> •
-  <strong>SQL</strong> •
-  <strong>Machine Learning</strong> •
-  <strong>Computer Vision</strong>
+  <strong>🗄️ SQL</strong> •
+  <strong>🤖 Machine Learning</strong> •
+  <strong>👁️ Computer Vision</strong>
 </p>
 
 <img
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJveIGlGq8d5DnxBKjw_RVOh6qkZfhry62gcA_gZ0RQ&amp;s=10"
-  width="500"
-  alt="Developer Coding Illustration"
+src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+width="400"
+alt="Animated Coding GIF"
 />
 
 <br>
@@ -24,6 +24,7 @@
 📚 **3rd Year • 6th Semester**
 
 </div>
+
 
 ---
 
